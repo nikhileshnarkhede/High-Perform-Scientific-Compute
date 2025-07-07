@@ -1,0 +1,1 @@
+pip install librosa matplotlib tensorflow ipyparallel numpy scikit-learn keras
